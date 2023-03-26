@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTTH01", "BTTH01\BTTH01.csproj", "{FEF52E5E-2CC4-45D0-AC05-2BDAAFB9C676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai17_VongLapFor", "Bai17_VongLapFor\Bai17_VongLapFor.csproj", "{5F8281E4-20BD-4E9A-88F6-698B3D4446C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF52E5E-2CC4-45D0-AC05-2BDAAFB9C676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF52E5E-2CC4-45D0-AC05-2BDAAFB9C676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF52E5E-2CC4-45D0-AC05-2BDAAFB9C676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF52E5E-2CC4-45D0-AC05-2BDAAFB9C676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8281E4-20BD-4E9A-88F6-698B3D4446C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8281E4-20BD-4E9A-88F6-698B3D4446C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8281E4-20BD-4E9A-88F6-698B3D4446C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8281E4-20BD-4E9A-88F6-698B3D4446C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F5E129-DA9D-4ADA-8E06-541B1FE2C4F5}
+	EndGlobalSection
+EndGlobal
